@@ -1,0 +1,6 @@
+hello
+world
+HELLO
+error
+hello world
+test
