@@ -1,0 +1,9 @@
+INFO Start
+
+INFO Cache loaded
+
+ERROR Cache corrupted
+
+INFO Cache recreated
+
+ERROR Redis unavailable

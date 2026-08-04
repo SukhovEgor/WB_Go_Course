@@ -1,0 +1,11 @@
+INFO Application started
+
+INFO Connected to database
+
+ERROR Database connection lost
+
+INFO Trying reconnect
+
+ERROR Authentication failed
+
+INFO Shutdown

@@ -1,0 +1,9 @@
+INFO Worker started
+
+INFO Processing request
+
+ERROR Timeout
+
+INFO Request finished
+
+ERROR Network unavailable
